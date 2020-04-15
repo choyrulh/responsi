@@ -1,0 +1,11 @@
+E:\Kuliah\Tugas\Semester 2\Pemrograman\C#\Gaji karyawan\gaji\gaji\bin\Debug\netcoreapp3.1\gaji.exe
+E:\Kuliah\Tugas\Semester 2\Pemrograman\C#\Gaji karyawan\gaji\gaji\bin\Debug\netcoreapp3.1\gaji.deps.json
+E:\Kuliah\Tugas\Semester 2\Pemrograman\C#\Gaji karyawan\gaji\gaji\bin\Debug\netcoreapp3.1\gaji.runtimeconfig.json
+E:\Kuliah\Tugas\Semester 2\Pemrograman\C#\Gaji karyawan\gaji\gaji\bin\Debug\netcoreapp3.1\gaji.runtimeconfig.dev.json
+E:\Kuliah\Tugas\Semester 2\Pemrograman\C#\Gaji karyawan\gaji\gaji\bin\Debug\netcoreapp3.1\gaji.dll
+E:\Kuliah\Tugas\Semester 2\Pemrograman\C#\Gaji karyawan\gaji\gaji\bin\Debug\netcoreapp3.1\gaji.pdb
+E:\Kuliah\Tugas\Semester 2\Pemrograman\C#\Gaji karyawan\gaji\gaji\obj\Debug\netcoreapp3.1\gaji.csprojAssemblyReference.cache
+E:\Kuliah\Tugas\Semester 2\Pemrograman\C#\Gaji karyawan\gaji\gaji\obj\Debug\netcoreapp3.1\gaji.AssemblyInfoInputs.cache
+E:\Kuliah\Tugas\Semester 2\Pemrograman\C#\Gaji karyawan\gaji\gaji\obj\Debug\netcoreapp3.1\gaji.AssemblyInfo.cs
+E:\Kuliah\Tugas\Semester 2\Pemrograman\C#\Gaji karyawan\gaji\gaji\obj\Debug\netcoreapp3.1\gaji.dll
+E:\Kuliah\Tugas\Semester 2\Pemrograman\C#\Gaji karyawan\gaji\gaji\obj\Debug\netcoreapp3.1\gaji.pdb
